@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Menghitung Volume Kubus</string>
+    <string name="input_sisi">Masukkan Panjang Sisi</string>
+</resources>
